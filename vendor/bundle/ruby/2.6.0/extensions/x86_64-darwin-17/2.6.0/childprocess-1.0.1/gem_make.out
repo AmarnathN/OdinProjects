@@ -1,0 +1,5 @@
+current directory: /Users/vnnavul/trainings/odin_projects/101_railsapp/my_first_rails_app/vendor/bundle/ruby/2.6.0/gems/childprocess-1.0.1/ext
+/usr/local/opt/ruby/bin/ruby mkrf_conf.rb
+
+current directory: /Users/vnnavul/trainings/odin_projects/101_railsapp/my_first_rails_app/vendor/bundle/ruby/2.6.0/gems/childprocess-1.0.1/ext
+/usr/local/opt/ruby/bin/ruby -rrubygems /Users/vnnavul/trainings/odin_projects/101_railsapp/my_first_rails_app/vendor/bundle/ruby/2.6.0/gems/rake-12.3.2/exe/rake RUBYARCHDIR\=/Users/vnnavul/trainings/odin_projects/101_railsapp/my_first_rails_app/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-17/2.6.0/childprocess-1.0.1 RUBYLIBDIR\=/Users/vnnavul/trainings/odin_projects/101_railsapp/my_first_rails_app/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-17/2.6.0/childprocess-1.0.1

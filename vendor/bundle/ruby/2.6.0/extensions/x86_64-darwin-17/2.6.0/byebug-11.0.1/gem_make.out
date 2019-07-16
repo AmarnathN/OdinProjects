@@ -1,0 +1,22 @@
+current directory: /Users/vnnavul/trainings/odin_projects/101_railsapp/my_first_rails_app/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+/usr/local/opt/ruby/bin/ruby -I /usr/local/lib/ruby/site_ruby/2.6.0 -r ./siteconf20190716-14194-1o8638d.rb extconf.rb
+creating Makefile
+
+current directory: /Users/vnnavul/trainings/odin_projects/101_railsapp/my_first_rails_app/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/vnnavul/trainings/odin_projects/101_railsapp/my_first_rails_app/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+ld: warning: directory not found for option '-L/usr/local/opt/readline/lib'
+ld: warning: directory not found for option '-L/usr/local/opt/readline/lib'
+ld: warning: directory not found for option '-L/usr/local/opt/readline/lib'
+
+current directory: /Users/vnnavul/trainings/odin_projects/101_railsapp/my_first_rails_app/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190716-14194-piwcrj/byebug
